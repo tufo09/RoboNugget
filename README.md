@@ -1,1 +1,4 @@
-"# RoboNugget" 
+# RoboNugget
+## Sensoren
+- LineArray
+- LIDAR
